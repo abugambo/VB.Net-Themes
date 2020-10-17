@@ -1,5 +1,5 @@
 # These are supported funding model platforms
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [almaftuchin]
-patreon: # Replace with a single Patreon username almaftuchin
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://app.almaftuchin.com/join', 'https://app.almaftuchin.com/sub']
+github: [almaftuchin]
+patreon: almaftuchin
+custom: ['https://app.almaftuchin.com/join', 'https://app.almaftuchin.com/sub']
